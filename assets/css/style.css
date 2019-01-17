@@ -2735,7 +2735,7 @@ img.aligncenter {
     margin-bottom: 20px;
 }
 .img-responsive {
-      max-width: 50%;
+      max-width: 30%;
       height:auto;
 }
 .wrapper-content img{
