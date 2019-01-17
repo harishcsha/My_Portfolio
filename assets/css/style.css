@@ -331,7 +331,8 @@ header {
 }
 .logo-holder {
     float:left;
-    max-width:90%;
+    max-width: 80%;
+    right: 90px;
     height:70px;
     position:relative;
     padding:0 30px;
