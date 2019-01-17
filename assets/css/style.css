@@ -2556,7 +2556,7 @@ footer {
 .hero-title h4:before {
     content:'';
     position:absolute;
-    bottom:-20px;
+    bottom:-40px;
     left:50%;
     margin-left:-35px;
     width:70px;
